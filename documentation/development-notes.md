@@ -39,8 +39,10 @@ Eu realmente mal dimensionei esse projeto inteiro, perdi muito tempo tentando qu
 
 Parti para desenvolver um método de pegar dinamicamente cada app, criar um ```<Card />``` para cada um deles e carrega-los dentro da página inicial. Obviamente fracassei. Apaguei todos os placeholders e comecei a criar de fato os apps para depois pensar em como montara vitrine.
 
-Ao tentar desenvolver o primeiro dele, [Bin2Dec]() eu me deparei com problemas de interpretação do parametros, problemas para a parte visual e de configuração do ESLint. Nenhuma dessas coisas são grandes problemas e eventualmente irei resolver tudo, mas preciso de bem mais tempo do que eu pensava inicialmente.
+Ao tentar desenvolver o primeiro dele, [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md) eu me deparei com problemas de interpretação do parametros, problemas para a parte visual e de configuração do ESLint. Nenhuma dessas coisas são grandes problemas e eventualmente irei resolver tudo, mas preciso de bem mais tempo do que eu pensava inicialmente.
 
 *Talvez* eu tenha lido e assistido vídeos de mais sobre os fundamentos de React e Next e a falta de por a mão na massa esteja me atrapalhando a desenvolver as soluções rápidamente. Mesmo eu tendo escrito as aplicações de exemplos a mão, acho que o fato de não ter sido eu que desenvolveu a lógica de funcionamento fez com que eu não desenferruja-se essa pericia. Justo a pericia mais importante desse oficio.
 
-**E no fim lá vou eu de novo transformar a documentação de um projeto num diário de reclamações v.v**
+E no fim, **lá vou eu de novo transformar a documentação de um projeto num diário de reclamações** v.v
+
+* [Input Placeholder centralizado](https://stackoverflow.com/questions/7381446/center-html-input-text-field-placeholder)
