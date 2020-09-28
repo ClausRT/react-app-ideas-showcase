@@ -20,6 +20,17 @@ Eu não sou do tipo que se arrisca do nada numa coisa nova. Eu olhei a documenta
 * [React em 40 minutos do canal Cod3r Cursos](https://github.com/ClausRT/fundamentos-react)
 * [Tutorial oficial do Next](https://github.com/ClausRT/nextjs-blog)
 
+## Referencias
+
+* [How to set up TypeScript/ESLint/Prettier for Next.js](https://medium.com/@gogl.alex/how-to-set-up-typescript-eslint-prettier-for-next-gatsby-c5330b4a9b7a)
+* [Start a Next.js project with TypeScript, Eslint and Prettier](https://paulintrognon.fr/blog/post/typescript-prettier-eslint-next-js)
+* [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
+* [Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50](https://www.youtube.com/watch?v=1nVUfZg2dSA)
+* [Essa issue](https://github.com/typescript-eslint/typescript-eslint/issues/2502) e [essa config.](https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-use-before-define.md)
+* [Paleta de cores escolhida](https://colorhunt.co/palette/206929)
+* [Texto entre duas linhas de separação](https://stackoverflow.com/questions/23180372/how-to-make-some-text-between-two-lines)
+* [Input Placeholder centralizado](https://stackoverflow.com/questions/7381446/center-html-input-text-field-placeholder)
+
 ## Licenças
 
 * ["Shrug icon" by Delapouite under CC BY 3.0](https://game-icons.net/1x1/delapouite/shrug.html)
