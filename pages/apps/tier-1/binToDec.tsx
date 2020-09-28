@@ -56,3 +56,10 @@ class binToDec extends Component {
 }
 
 export default binToDec
+
+export const META = {
+  title: 'Bin2Dec',
+  from:
+    'https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md',
+  tier: '1'
+}

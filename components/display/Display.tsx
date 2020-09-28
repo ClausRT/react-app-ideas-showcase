@@ -1,6 +1,7 @@
 import React from 'react'
 import { GetStaticProps } from 'next'
 import Card from './Card'
+import { } from 'lib/apps'
 
 class Display extends React.Component {
   render(): JSX.Element {
