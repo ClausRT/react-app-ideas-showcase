@@ -25,3 +25,22 @@ Criar uma base sólida, mas simples para o projeto. Configurando o VSCode para f
 * [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
 * [Como inicio meus apps com ReactJS? Next.js, TypeScript, ESLint e Styled Components | Code/Drops #50](https://www.youtube.com/watch?v=1nVUfZg2dSA)
 * [Essa issue](https://github.com/typescript-eslint/typescript-eslint/issues/2502) e [essa config.](https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/eslint-plugin/docs/rules/no-use-before-define.md)
+
+## 02 - Showcase
+
+Eu deveria ter dedicado mais tempo a entender o CSS. É um inferno fazer qualquer coisa. Na real eu deveria tirar um curso de designer pois eu nem faço ideia do que seria algo bonito ou não.
+
+* [Paleta de cores escolhida](https://colorhunt.co/palette/206929)
+* [Texto entre duas linhas de separação](https://stackoverflow.com/questions/23180372/how-to-make-some-text-between-two-lines)
+
+## 03 - Descepção do primeiro app
+
+Eu realmente mal dimensionei esse projeto inteiro, perdi muito tempo tentando quebrar a cabeça para implementar um visual simples e desisti pois eu realmente não tenho noção gráfica o suficiente ainda para fazer algo descente. Mantive algumas alterações básicas, mas removi boa parte das cores e *fancy stuff* que eu tava tentando implementar.
+
+Parti para desenvolver um método de pegar dinamicamente cada app, criar um ```<Card />``` para cada um deles e carrega-los dentro da página inicial. Obviamente fracassei. Apaguei todos os placeholders e comecei a criar de fato os apps para depois pensar em como montara vitrine.
+
+Ao tentar desenvolver o primeiro dele, [Bin2Dec]() eu me deparei com problemas de interpretação do parametros, problemas para a parte visual e de configuração do ESLint. Nenhuma dessas coisas são grandes problemas e eventualmente irei resolver tudo, mas preciso de bem mais tempo do que eu pensava inicialmente.
+
+*Talvez* eu tenha lido e assistido vídeos de mais sobre os fundamentos de React e Next e a falta de por a mão na massa esteja me atrapalhando a desenvolver as soluções rápidamente. Mesmo eu tendo escrito as aplicações de exemplos a mão, acho que o fato de não ter sido eu que desenvolveu a lógica de funcionamento fez com que eu não desenferruja-se essa pericia. Justo a pericia mais importante desse oficio.
+
+**E no fim lá vou eu de novo transformar a documentação de um projeto num diário de reclamações v.v**

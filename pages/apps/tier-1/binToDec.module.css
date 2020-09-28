@@ -1,0 +1,15 @@
+.container {
+  border: solid;
+  border-radius: 0.4rem;
+  padding: 0.5rem;
+  width: fit-content;
+  position: relative;
+  margin: 0;
+  top: 25vh;
+  left: 40vw;
+}
+
+.container ::-webkit-input-placeholder {
+  text-align: center;
+  color: inherit;
+}

@@ -19,3 +19,7 @@ Eu não sou do tipo que se arrisca do nada numa coisa nova. Eu olhei a documenta
 * [UI Clone da página de login da Rocketseat](https://github.com/ClausRT/skylabnext)
 * [React em 40 minutos do canal Cod3r Cursos](https://github.com/ClausRT/fundamentos-react)
 * [Tutorial oficial do Next](https://github.com/ClausRT/nextjs-blog)
+
+## Licenças
+
+* ["Shrug icon" by Delapouite under CC BY 3.0](https://game-icons.net/1x1/delapouite/shrug.html)

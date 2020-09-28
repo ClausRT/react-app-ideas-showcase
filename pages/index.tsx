@@ -1,22 +1,19 @@
 import React from 'react'
-import Head from 'next/head'
-import Link from 'next/link'
+import Display from 'components/display/Display'
 
 const Home: React.FunctionComponent = () => {
   return (
-    <div>
-      <Head>
-        <title>Hompage</title>
-        {/* <link rel="icon" href="/favicon.ico" /> */}
-      </Head>
-
+    <>
       <main>
-        <h1>Desgraça gostosa</h1>
-        <Link href="/api/hello">
-          <a>Teste de Api</a>
-        </Link>
+        <h1>Homepage</h1>
+        <h2>
+          Algum dia, os apps serão mostrados aqui em cards proprios e
+          bonitinhos.
+        </h2>
+        <small>mas esse dia não é hoje</small>
+        {/* <Display /> */}
       </main>
-    </div>
+    </>
   )
 }
 

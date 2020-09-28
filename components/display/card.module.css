@@ -1,0 +1,7 @@
+.card {
+  border-radius: 1rem;
+  padding: 0.5rem 1.5rem;
+  border: thin black;
+  background-color: lightgray;
+  width: fit-content;
+}

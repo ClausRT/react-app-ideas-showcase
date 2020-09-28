@@ -1,0 +1,21 @@
+.foo {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.logo {
+  width: 2rem;
+  height: 2rem;
+  margin: 0.5rem;
+}
+
+.foo p {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}

@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+}
+
+.line {
+  height: 0.1rem;
+  background: lightgrey;
+  width: auto;
+}
+
+.container span {
+  position: relative;
+  top: 0.7rem;
+  background: white;
+  display: inline-block;
+  padding: 0 20px;
+}

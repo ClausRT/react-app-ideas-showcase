@@ -1,0 +1,21 @@
+:root {
+  --primary-color: #ffefa0;
+  --secondary-color: #ffd57e;
+  --tertiary-color: #fca652;
+  --quaternary-color: #ac4b1c;
+}
+
+body {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Courier Prime', monospace;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  color: inherit
+}
